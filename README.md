@@ -1,2 +1,2 @@
-# angrybird1
-creating angry bird using visual studio
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
